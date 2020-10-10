@@ -1,4 +1,4 @@
-# Quantum algorithm for linear approximation of vectorial Boolean function
+# Linear approximation of a vectorial Boolean function using quantum computing
 
 The C and python code implements the Proposed Quantum algorithm for linear approximation of a non-linear vectorial Boolean function.
 <a href=https://quest.qtechtheory.org/>QuEST</a> library is used to simulate quantum environment.<br/>
